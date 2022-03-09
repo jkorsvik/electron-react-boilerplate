@@ -1,6 +1,6 @@
 fastapi
-numpy
-pandas
-uvicorn
-yfinance
 pydantic
+text2num
+pydub
+vosk
+pyaudio
